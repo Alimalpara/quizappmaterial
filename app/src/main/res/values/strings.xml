@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizAppMAterial</string>
+    <string name="slide_1_title">The Physics DPP</string>
+    <string name="slide_1_desc">Take your physics knowlege to next level
+    prepare yourself for the real battle</string>
+
+    <string name="slide_2_title">Learn To Manage Time</string>
+    <string name="slide_2_desc">Your success in exam depends much on
+    managing time efficiently</string>
+
+    <string name="slide_3_title">See Your Statistics</string>
+    <string name="slide_3_desc">Learn from your previous report
+    TO prepare yourself for obstacles.</string>
+    <string name="tv_desc">Adipisicng elit irure sit aute Lorem
+    ullamco laboris consectetur. Incididunt
+    fugiat anim qui ullamco anim aliqua.\n\nAdipisicng elit irure sit aute Lorem
+    ullamco laboris consectetur. Incididunt
+    fugiat anim qui ullamco anim aliqua.\n\n\nTopics\n\t\t\t\t\t
+        \t- Topic 1\n\t\t\t\t\t
+        \t- Topic 2\n\t\t\t\t\t
+        \t- Topic 3\n\t\t\t\t\t
+        \t- Topic 4</string>
+
+
+</resources>
